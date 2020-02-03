@@ -1,6 +1,5 @@
 def my_hash
- first_hash_hash[name] = "Justin"
- first_hash[birthday] = "March 5"
+ first_hash_hash = "Name"=>"Justin"
   
 end
 
