@@ -1,4 +1,4 @@
-def my_hash
+def my_hash(first_hash)
  first_hash = {}
  first_hash_hash[name] = "Justin"
  first_hash[birthday] = "March 5"
