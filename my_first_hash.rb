@@ -1,7 +1,7 @@
 def my_hash
- my_hash = {}
- my_hash[name] = "Justin"
- my_hash[birthday] = "March 5"
+ first_hash = {}
+ first_hash_hash[name] = "Justin"
+ first_hash[birthday] = "March 5"
   
 end
 
